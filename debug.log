@@ -1,0 +1,5 @@
+[1011/172148.045:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Cesar\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\0e29260a-6a59-486d-83eb-b8576ac2672c: El sistema no puede encontrar la ruta especificada. (0x3)
+[1011/172148.082:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Cesar\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\64458448-ac02-48a0-abc4-5ae8392e9687: El sistema no puede encontrar la ruta especificada. (0x3)
+[1011/172148.086:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Cesar\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\9e828fe1-d3b1-43df-bc4f-b1e60be5b992: El sistema no puede encontrar la ruta especificada. (0x3)
+[1011/172148.090:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Cesar\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\e533e3bd-c138-4d75-89af-402fccefb51d: El sistema no puede encontrar la ruta especificada. (0x3)
+[1011/172148.091:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)

@@ -1,27 +1,34 @@
 # Covid19App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.6.
+Este proyecto fue generado con [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
+El mismo consume los datos de una api rest  la url es :
+(https://pomber.github.io/covid19/timeseries.json)
 
+# Maquetado
+para maquetar se utilizo Bootstrap 4 y las siguientes librerias 
+-https://www.npmjs.com/package/ng2-charts 
+-https://valor-software.com/ngx-bootstrap/
+-https://www.npmjs.com/package/angular-feather
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+ejecutar `ng serve` para un servidor de desarrollo. Navegar a  `http://localhost:4200/`. la aplicacion se recargara automaticamente si cambia algunos de los archivos de origen .
 
 ## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Ejecutar `ng generate component component-name` para generar un nuevo componente.Tambien puedes utilizar el comando en una terminal  `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Ejecutar `ng build` para hacer el build del proyecto. los artefactos de construccuin se almacenaran en el directorio `dist/` . utilizar el  `--prod` con la bandera esa para el build de produccion.
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Ejecute `ng test` para ejecutar las pruebas unitaria a través de  [Karma](https://karma-runner.github.io).
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Ejecute `ng e2e` para ejecutar la prueba de extremo a extremo (end-to end) a través de [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Para obtener mas ayuda sobre el uso de  Angular CLI `ng help` o checkee el archivo [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
